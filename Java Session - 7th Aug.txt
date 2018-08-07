@@ -1,0 +1,135 @@
+Today's Topic
+=================
+Data Type
+Operator
+Condition
+Loop 
+
+
+Data Type & variable
+============================
+variable: is temp. memory where data can be stored
+
+int a=10;  //here int is data type , a is variable, and 10 is value/data
+
+Correct syntax:
+----------------
+int a;
+int a1;
+int a_b;
+int ab;
+String fname;
+String f_name;
+int a,b;
+	a=11;
+	b =33;
+
+
+
+
+incorrect syntax:
+----------------
+int 1a;
+int a b;
+int a+b;
+String f name;
+
+
+Data Type : is container type which allocates the memrory 
+--------------------
+Primitive : single value
+-------------
+numeric :without decimal
+----------------------
+byte			: byte b =11;     - 1 byte = 8 bit
+short			: 		  - 2 byte  = 16bit 
+int			:		  - 4 byte   = 32 bit		
+long			: long l =0;  	  - 8 byte = 64 bit 
+
+
+
+numeric: with decimal
+----------------------
+float			: float f =343333.333;   - 4 byte
+double			:			 - 8 byte
+
+
+alpha-numeric
+----------------
+char
+
+
+boolean
+-----------------
+boolean 		: true / false
+
+
+
+Non-Primitive		: multi values 
+--------------------
+ArrayList
+List
+Array
+String 
+
+
+	
+
+Operator
+===============
+Arithmetic:
+	+
+	-
+	*
+	/		: 85/10	= 8.5  or 8
+	%		: 85%10  = 5 
+
+	example:
+			2+3*4    = 14
+			(2+3)*4  = 20
+
+Conditional
+	>			greater than
+	>=			greater than equal
+	<			less than
+	<=			less than equal
+	==			is equal
+	!=			not equal 
+
+ 
+Logical:
+	&&		-and 
+	T T =T
+	T F =F
+	F T =F
+	F F =F
+	
+	||		-or 
+	T T =T
+	T F =T
+	F T =T
+	F F =F
+
+	
+Increment/decrement
+	++
+	--
+	postfix:
+		i++
+		i--
+	prefix:
+		++i
+		--i
+
+
+assignment operator:
+	=			a =1
+	+=			a +=10  or a=a+10
+	-=
+	*=
+		
+
+
+
+
+
